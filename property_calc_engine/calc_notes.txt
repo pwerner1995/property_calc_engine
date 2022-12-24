@@ -1,0 +1,60 @@
+Rental property roi
+  - factors:
+        - property type (airbnb vs residential)
+        - best to calculate throughout the year
+        - operating expenses
+              -mortgage payment 
+              - property tax
+              - maintenance/improvements/local regulations
+  - 3 methods to calculate roi - depends on finance method and initial amount borrowed (aim for 10% plus ROI)
+      - simple ROI = (Annual Rental Income - Annual Operating Costs) / Mortage Value
+      - Capitalization Rate (Cap Rate) = Net Operating Income / Purchase Price × 100%
+          - used when paid in cash
+      - Cash-on-Cash return = (Annual Cash Flow / Total Cash Invested) × 100%
+          - used when mortgaged
+  - Key Statistics
+      - Gross Rent = total monthly rent
+      - Operating Expenses = 30-55% of gross rent (allegedly)
+          - repairs, maintenance, insurance
+          - 50% Rule —> A rental property's sum of operating expenses hovers around 50% of income. 
+          - Operating expenses do not include mortgage principal or interest. The other 50% can be used to pay the monthly mortgage payment. 
+          - This can be used to quickly estimate the cash flow and profit of an investment.
+      - Debt Coverage Ratio = Net Operating Income / Monthly Debt 
+          - ability to pay monthly mortgage/debt (after expenses)
+          - value over 1 suggests sufficient ability to pay
+      - Gross Rent Multiplyer = total sales price / annual gross rent
+          - value of investment relative to gross rent
+          - good to compare to other properties to find relative expense
+      - Monthly Income = gross rents - (mortgage payment + monthly expenses)
+          - before-tax cash flow expected monthly
+      -  Equity Dividend Ratio = after-tax cash flow / total equity
+          - return of equity you would expect from the property
+      -  Estimated Cash at Closing = down payment + closing costs + legal costs + enhancements
+      -  Break Even Ratio = operating expenses + debt payments / total gross rent
+          - measures vulnerability of property is to gross rent swings and an assessment of financial leeway you have in lowered rents before the property's rent no longer covers all the expenses
+          - lower the %, the more leeway you have
+      -  Cap Rate (Duplicate - Capitalization Rate) = Net Operating Income / sales price
+          - potential rate of return from rental property
+          - Cap rate is the effective ROI for the property if you paid 100% cash for the purchase
+      - Internal Rate of return RESEARCH***
+          - annualized total return
+          - annual rate earned on each dollar invested for the period it is invested
+          - higher the better
+          - Need Net Present Value (NPV)
+      - Net Present Value = (Cash flow/(1 + return or discount rate)^# of time periods) - initial investment
+      - Debt Service = monthly mortgage payment
+- Important Data
+      - Sales/Asking Price
+      - Down payment
+      - Interest Rate
+      - Percent Finance
+      - Closing Costs
+      - Upfront enhancements
+      - Average Monthly Rent per unit
+      - Planned growth Rate of rent price yearly
+      - Gross Rent
+      - Estimated vacancy rate
+      - Expense Ratio - % of gross rent expected to be needed for operating expenses
+
+
+
